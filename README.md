@@ -11,3 +11,5 @@ Update React components to use tracking API, create Laravel REST service for reg
 [Cordial.com](https://cordial.com/)
 
 [M2 Extension / API](https://support.cordial.com/hc/en-us/sections/8994468965517-Magento)
+
+[Salesforce Integration](https://support.cordial.com/hc/en-us/articles/360053485091-Salesforce-Commerce-Cloud)
